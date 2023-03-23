@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boriskra
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on drones
 - 📫 How to reach me don't
 
 <!---
